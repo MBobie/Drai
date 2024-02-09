@@ -9,7 +9,7 @@ To get started with the chatbot, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/aivic-techie/drai.git
+    git clone https://github.com/MBobie/Drai.git
     cd drai
     ```
 
