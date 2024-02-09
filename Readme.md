@@ -92,6 +92,10 @@ This project utilizes the OpenAI GPT-3.5 Turbo model for natural language proces
 
 Happy chatting with DRAI!
 
+### Credits
+David Aleoghena
+Victor Ofor
+Ebube 
 
 
 
